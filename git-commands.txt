@@ -59,6 +59,3 @@ Command Listing
 ---------------
 
 git push origin master
-
-
-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
